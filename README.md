@@ -1,0 +1,2 @@
+# majedur
+Artificial Intelligent
